@@ -3,4 +3,5 @@ title:
 draft: false
 tags:
 ---
-A blog
+![[Pasted image 20240305132935.png]]
+sdg
