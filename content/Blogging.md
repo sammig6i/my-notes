@@ -1,5 +1,5 @@
 ---
-title: Blogging
+title: 
 draft: false
 tags:
 ---
